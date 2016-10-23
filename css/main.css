@@ -54,11 +54,11 @@ h1, h2, h3, h4, h5, h6,
 }
 
 main > section {
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .btn {
-    border-radius: 0;
+    border-radius: 10;
     border: 0;
     position: relative;
     text-transform: uppercase;
