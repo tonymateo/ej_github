@@ -23,7 +23,7 @@ body {
 }
 
 figure, p, address {
-    margin: 0;
+    margin: 10px;
 }
 
 p {
