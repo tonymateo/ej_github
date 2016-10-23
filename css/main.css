@@ -58,7 +58,7 @@ main > section {
 }
 
 .btn {
-    border-radius: 0;
+    border-radius: 10;
     border: 0;
     position: relative;
     text-transform: uppercase;
